@@ -8,7 +8,9 @@
 #welcome{
 	display: none;
 }
-
+#start{
+	display: none;
+}
 input[type=checkbox]{
 	height: 0;
 	width: 0;
